@@ -1,0 +1,164 @@
+[tr]
+NOTICE_INFO1 =  Oyun Menusunu Gostermek Icin 'M' Tusuna Basin.
+NOTICE_INFO2 =  Tikla, veya , silah almak icin
+NOTICE_VIRUS_FREE =  Zombi Avlamaya Hazir Olun, Birazdan Basliyor:)
+NOTICE_FIRST =  %s Zombi Oldu, Dikkat Et Seni Zombi Yapmasin!
+NOTICE_INFECT =  %s'in Beyni Yendi
+NOTICE_INFECT2 =  %s'nin Beynini %s Yedi..
+NOTICE_ANTIDOTE =  %s Panzehir Kullandi.
+NOTICE_NEMESIS =  Dikkat!! %s DraquLa Oldu!
+NOTICE_SURVIVOR =  %s Survivor Oldu !
+NOTICE_SWARM =  Tirmanma Modu Aktif
+NOTICE_MULTI = Coklu Enfeksiyon Aktif!
+NOTICE_PLAGUE =  Veba Modu Aktif!
+
+WIN_HUMAN =  Insanlar Dunyadan Akil Almaz Virusu Temizledi!
+WIN_ZOMBIE =  Zombiler Dunyayi Ele Gecirdi Cehenneme Ceviriorlar!
+WIN_NO_ONE =  Kimse Kazanamadi, Buyuk Savasa Dewam
+
+CMD_INFECT =  Zombiye Donustu
+CMD_DISINFECT =  Insana Geri Dondu
+CMD_NEMESIS =  DraquLa'e Donustu
+CMD_SURVIVAL =  Survivor'a Donustu
+CMD_SWARM =  SALGIN Modu Basladi
+CMD_MULTI =  Coklu Enfeksiyon Basladi
+CMD_PLAGUE =  Veba Modu Basladi
+CMD_RESPAWN =  Canlandirildi
+CMD_NOT = Komut Kullanilamiyor.
+CMD_ZOMBIE_ONLY =  Bu Sadece Zombiler Tarafindan Kullanilabilir.
+CMD_HUMAN_ONLY =  Bu Sadece Insanlar Tarafindan Kullanilabilir
+CMD_NOT_STUCK = Zorlanmadigindan Dolayi Komut Kullanilmiyor.
+CMD_NOT_ACCESS = Erisim Hakkiniz Yoktur.
+CMD_NOT_CANTUSE = Simdi Bu Hakki Kullanamazsiniz.
+CMD_NOT_EXTRAS = Extra Itemler Devre Disi
+CMD_NOT_ZCLASSES = Zombi Siniflari Devre Disi
+
+MENU_BUY =  Silah Satin Al
+MENU_EXTRABUY = Extra Item Satin Al
+MENU_ZCLASS = Zombi Sinifini Sec
+MENU_UNSTUCK =  CsPlague.Com Kurtar Beni!
+MENU_ADMIN =  Admin Menu
+MENU_INFO = Yardim
+MENU_SPECTATOR = Izleyiciler Listesi
+
+MENU_BUY1_TITLE = www.CspLague.Com | Ilk Silah Secimi
+MENU_BUY2_TITLE = www.CsPlague.com | Ikinci Silah Secimi
+MENU_ZCLASS_TITLE = Zombi Sinifi
+MENU_EXTRA_TITLE = Extra Itemler
+MENU_ADMIN_TITLE = Admin Menu
+MENU_INFO_TITLE = Eklenti Bilgi
+
+MENU_EXTRA1 = Gece Gorus (Tek Round)
+MENU_EXTRA2 = T-Virus Panzehir
+MENU_EXTRA3 = Zombi Deliligi
+MENU_EXTRA4 = Enfeksiyon Bombasi
+MENU_ADMIN1 = Zombi & Insan Yap
+MENU_ADMIN2 = DraquLa Yap
+MENU_ADMIN3 = Survivor Yap
+MENU_ADMIN4 = Birisini Yeniden Dogdur
+MENU_ADMIN5 = SALDIRI  Baslat
+MENU_ADMIN6 = BUYUK SALDIRI SALDIRI Baslat
+MENU_ADMIN7 = OLUMCUL SALDIRI Baslat
+MENU_INFO1 = Genel
+MENU_INFO2 = Insanlar
+MENU_INFO3 = Zombiler
+MENU_INFO4 = Oyun Modu
+
+MENU_AUTOSELECT = Secimimi Hatirla!
+MENU_BACK = Geri
+MENU_NEXT = Sonra
+MENU_EXIT = Cikis
+
+MOTD_INFO11 = <meta charset=UTF-8><body bgcolor=\"#000000\"><font color=\"#FF0505\"><b>%s %s by %s :</b> is a Counter-Strike plugin developed for AMX Mod X, in which humans and zombies are confronted. It is based on the classic zombie infection mod: on every round a random player is picked to be the first zombie who has to infect everyone else. 
+MOTD_INFO12 = But there are new features and enhancements. For instance, you are able to buy extra items (such as weapons) in exchange of Cephane Paketleri. You can get Cephane Paketleri by killing zombies/infecting humans.<br><br><br><u>Current server settings:</u><br>
+MOTD_INFO1_A = <br>Ambiyans Etkileri :
+MOTD_INFO1_B = <br>Yildirim Seviyesi : %s
+MOTD_INFO1_C = <br>Tetiklenen Simsekler : %L
+MOTD_INFO1_D = <br>Gok Gurlemesi : %d Saniye	
+MOTD_INFO1_E = <br>Kapilar : %L
+MOTD_INFO1_F = <br>Deathmatch: %L
+MOTD_INFO1_G = <br>Spawn Koruma Suresi : %d Saniye
+MOTD_INFO1_H = <br>Rasgele Yumurtlama : %L
+MOTD_INFO1_I = <br>Extra Itemler : %L
+MOTD_INFO1_J = <br>Zombi Siniflari : %L
+MOTD_INFO1_K = <br>Ozel Gece Gorusu : %L
+MOTD_INFO1_L = <br>Ozel Fener : %L
+MOTD_INFO2 = <meta charset=UTF-8><body bgcolor=\"#000000\"><font color=\"#FF0505\"><b>Humanlar:</b> their objective is to eliminate any zombie threat. They have a big arsenal of weapons to choose from, and use flashlights on dark maps. Team work is a must to survive.<br><br><br><u>Current server settings:</u><br>
+MOTD_INFO2_A = <br>Saglik : %d
+MOTD_INFO2_B = <br>Son Insan Saglik Odulu : %d
+MOTD_INFO2_C = <br>Hiz : %d
+MOTD_INFO2_D = <br>Yer Cekimi : %d
+MOTD_INFO2_E = <br>Cephane : %L
+MOTD_INFO2_F = <br>Damage to Get an Ammo Pack: %d
+MOTD_INFO2_G = <br>Yangin Bombasi : %L
+MOTD_INFO2_H = <br>Don Bombasi : %L
+MOTD_INFO2_I = <br>Parlama Bombasi : %L
+MOTD_INFO2_J = <br>Geri Tepme : %L
+MOTD_INFO3 = <meta charset=UTF-8><body bgcolor=\"#000000\"><font color=\"#FF0505\"><b>Zombies:</b> their objective is to infect every alive human. They are able to see in the dark, but can only attack melee. There are many zombie classes to choose from, each with his own strenghts and weaknesses, but all capable of eating brains.<br><br><br><u>Current server settings:</u><br>
+MOTD_INFO3_A = <br>Zombi Saglik : %d
+MOTD_INFO3_B = <br>Ilk Zombi Cani : %d
+MOTD_INFO3_C = <br>Zirh : %d%% Alinan Zarar
+MOTD_INFO3_D = <br>Hiz : %d
+MOTD_INFO3_E = <br>Yer Cekimi : %d
+MOTD_INFO3_F = <br>Enfeksiyon icin Saglik: %d
+MOTD_INFO3_G = <br>Elektrik Agrisi: %L
+MOTD_INFO3_H = <br>Kanama : %L
+MOTD_INFO3_I = <br>Enfeksiyon Icin Cephane Paketleri : %d
+MOTD_INFO4 = <meta charset=UTF-8><body bgcolor=\"#000000\"><font color=\"#FF0505\"><b>Mini-Games:</b> there are 5 special gameplay modes that may randomly take place during the course of the game.<br><br><br><u>Current server settings:</u><br>
+MOTD_INFO4_A = <br>DraquLa : %L
+MOTD_INFO4_B = <br>DraquLa Sansi: 1 de %d
+MOTD_INFO4_C = <br>DraquLa Sagligi : %s
+MOTD_INFO4_D = <br>DraquLa Hizi : %d
+MOTD_INFO4_E = <br>DraquLa Yer Cekimi: %d
+MOTD_INFO4_F = <br>DraquLa Sicrama: %L
+MOTD_INFO4_G = <br>DraquLa Elektrik Agrisi: %L
+MOTD_INFO4_H = <br><br>Survivor: %L
+MOTD_INFO4_I = <br>Survivor Sansi: 1 de %d
+MOTD_INFO4_J = <br>Survivor Sagligi: %s
+MOTD_INFO4_K = <br>Survivor Hizi: %d
+MOTD_INFO4_L = <br>Survivor Yer Cekimi: %d
+MOTD_INFO4_M = <br>Survivor Sicrama: %L
+MOTD_INFO4_N = <br>Survivor Elektrik Agrisi: %L
+MOTD_INFO4_O = <br><br>SALDIRI Modu: %L
+MOTD_INFO4_P = <br>SALDIRI Modu Sansi: 1 in %d
+MOTD_INFO4_Q = <br><br>BUYUK SALDIRI SALDIRI: %L
+MOTD_INFO4_R = <br>BUYUK SALDIRI SALDIRI Sansi: 1 in %d
+MOTD_INFO4_S = <br>Enfeksiyon Orani: %d%%
+MOTD_INFO4_T = <br><br>OLUMCUL SALDIRI: %L
+MOTD_INFO4_U = <br>Zombi Modu Sansý: 1 de %d
+MOTD_INFO4_V = <br>Enfeksiyon Orani: %d%%
+
+MOTD_ENABLED = Etkin
+MOTD_DISABLED = Devre Disi
+MOTD_FOG = Sis
+MOTD_RAIN = Yaðmur
+MOTD_SNOW = Kar
+MOTD_ROTATING = Doner Kapilar Kaldirildi
+MOTD_DOORS = Cikarilan Tum Kapilar
+MOTD_DM_HUMAN = Insan Canlandir
+MOTD_DM_ZOMBIE = Zombi Canlandir
+MOTD_LIMITED = Sinirli
+MOTD_AMMO_BP = Limitsiz Mermiler
+MOTD_AMMO_CLIP = Sinirsiz Klip
+MOTD_LASTZOMBIE = Only on last zombie
+
+ZOMBIE_ATTRIB1 = Saglik
+ZOMBIE_ATTRIB2 = Hiz
+ZOMBIE_ATTRIB3 = Yer Cekimi
+ZOMBIE_ATTRIB4 = Geri Tepme
+
+CLASS_CLASS = Sinif :
+CLASS_HUMAN = Insan
+CLASS_ZOMBIE = Zombi
+CLASS_SURVIVOR = Survivor
+CLASS_NEMESIS = DraquLa
+
+LAST_ZOMBIE_LEFT =  Son Zombi Ayrildi, %s Yeni Zombi.
+LAST_HUMAN_LEFT =  Son Insan Ayrildi, %s Yeni Insan.
+NOT_ENOUGH_AMMO =  Yeterince Ammo Paketiniz Yok.
+AMMO_BOUGHT =  Silahlariniz icin Extra Ammo Paketi Odediniz.
+ZOMBIE_SELECT =  Bir Dahaki Enfeksiyonda Sectigin Zombi Olacaksin.
+BUY_ENABLED =  Satin Alma Menusu Yeniden Etkinlestirildi
+AMMO_PACKS1 = Cephane Paketleri :
+AMMO_PACKS2 = Cephane Paketleri
+SPECTATING = izleyenler:
